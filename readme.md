@@ -5,7 +5,7 @@
 - <details>
 	<summary>Click here for pronunciation of my name.</summary>
 
-	https://user-images.githubusercontent.com/861701/139334125-bd8ae5ec-20bb-4742-bc4f-106897031719.mp4
+	https://user-images.githubusercontent.com/29491356/168587388-e0387ee8-2a80-4557-86ea-748881d7f345.mp4
 </details>
 
 ## License
